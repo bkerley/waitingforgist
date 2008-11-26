@@ -13,7 +13,7 @@ filter:    erb
    <link rel="alternate" type="application/atom+xml" title="RSS" href="/tumblog/rss.xml"/>
 
 
-   <link rel="stylesheet" href="/css/tumblog.css" type="text/css" media="screen, projection" />
+   <link rel="stylesheet" href="/ist/css/tumblog.css" type="text/css" media="screen, projection" />
 </head>
 <body>
 
