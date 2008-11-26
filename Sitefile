@@ -7,4 +7,5 @@ task :deploy => [:build, 'deploy:rsync']
 SITE.create_mode = 'directory'
 SITE.host = 'waitingf.org'
 SITE.remote_dir = '/home/waitingf.org/web/public/ist'
+SITE.tumblog_dir = ''
 # EOF
