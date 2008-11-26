@@ -1,0 +1,10 @@
+---
+title:      I Feel Pretty
+created_at: 2008-11-25 21:01:29.704741 -05:00
+author:     Your Name
+filter:
+  - textile
+layout:       ist/post
+tumblog_type: regular
+---
+<script src="http://gist.github.com/27578.js"></script>
