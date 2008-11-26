@@ -35,7 +35,7 @@ filter:    erb
       <%= content_for :footer %>
 
       <div id="credit">
-        Powered by <a href="http://webby.rubyforge.org/">Webby</a>
+        Powered by <a href="http://en.wikipedia.org/wiki/Electricity">Electricity</a>
       </div>
     </div>
 
