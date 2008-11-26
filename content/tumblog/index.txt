@@ -1,6 +1,6 @@
 ---
-title:  A Mother Clucker
-author: Tim Pease
+title:  Waiting For Gist
+author: Bryce
 layout: tumblog/default
 filter: erb
 dirty:  true
