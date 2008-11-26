@@ -37,12 +37,12 @@ a
 h1
   :width                   600px
   :padding                 0px 100px 20px 100px
-  :margin                  50px auto 40px auto
+  :margin                  20px auto 10px auto
   :border-bottom =         solid 1px !border
   :text-align              center
-  :font                    Bold 55px 'Trebuchet MS', Geneva, Arial, sans-serif
+  :font                    Bold 25px 'Trebuchet MS', Geneva, Arial, sans-serif
   :letter-spacing          -2px
-  :line-height             50px
+  :line-height             30px
   :position                relative
 
   a
@@ -152,8 +152,8 @@ div.post
     :line-height           17px
 
     h2
-      :font-size           36px
-      :line-height         34px
+      :font-size           16px
+      :line-height         14px
   
     blockquote
       :font-style          italic
