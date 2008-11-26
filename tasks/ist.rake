@@ -1,9 +1,9 @@
 
-namespace :tumblog do
+namespace :ist do
 
   # iterate over all the files in the "templates/tumblog" folder and create a
   # rake task corresponding to each file found
-  FileList["#{Webby.site.template_dir}/tumblog/*"].each do |template|
+  FileList["#{Webby.site.template_dir}/ist/*"].each do |template|
     next unless test(?f, template)
     name = template.pathmap('%n')
 

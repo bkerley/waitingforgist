@@ -1,11 +1,11 @@
 ---
 filter: erb
-layout: tumblog/default
+layout: ist/default
 ---
 <div class="post">
   <%= tumblog_date(@page.created_at) %>
   <a href="<%= @page.url %>">
-    <img src="/images/tumblog/permalink.gif" class="permalink" alt="permalink" />
+    <img src="/ist/images/ist/permalink.gif" class="permalink" alt="permalink" />
   </a>
 
   <div class="<%= @page.tumblog_type %>">

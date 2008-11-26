@@ -19,7 +19,7 @@ filter:    erb
 
   <h1>
     <a href="/">Waiting For Gist</a>
-    <a href="/tumblog/rss.xml"><img src="/images/tumblog/rss.gif" id="rss" alt="RSS" /></a>
+    <a href="/ist/rss.xml"><img src="/ist/images/ist/rss.gif" id="rss" alt="RSS" /></a>
   </h1>
 
   <div id="content">

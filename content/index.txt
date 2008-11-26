@@ -1,14 +1,14 @@
 ---
 title:  Waiting For Gist
 author: Bryce
-layout: tumblog/default
+layout: ist/default
 filter: erb
 dirty:  true
 ---
 <% prev = nil
    posts = @pages.find(
        :all,
-       :layout => 'tumblog/post',
+       :layout => 'ist/post',
        :sort_by => :created_at,
        :reverse => true
    )
@@ -19,7 +19,7 @@ dirty:  true
   <% prev = p.created_at.strftime('%Y%m%d')
      end -%>
   <a href="<%= p.url %>">
-    <img src="/images/tumblog/permalink.gif" class="permalink" alt="permalink" />
+    <img src="/ist/images/ist/permalink.gif" class="permalink" alt="permalink" />
   </a>
 
   <div class="<%= p.tumblog_type %>">
