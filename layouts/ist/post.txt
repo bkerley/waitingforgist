@@ -4,12 +4,12 @@ layout: ist/default
 ---
 <div class="post">
   <%= tumblog_date(@page.created_at) %>
-  <a href="/ist/<%= @page.url %>">
+  <a href="/ist<%= @page.url %>">
     <img src="/ist/images/ist/permalink.gif" class="permalink" alt="permalink" />
   </a>
 
   <div class="<%= @page.tumblog_type %>">
-    <h2><%= link_to_page(@page) %></h2>
+  <h2><a href="/ist<%= @page.url %>"><%=@page.title%></a></h2>
     <%= @content %>
   </div>
 </div>
