@@ -18,13 +18,13 @@ dirty:  true
   <%= tumblog_date(p.created_at) %>
   <% prev = p.created_at.strftime('%Y%m%d')
      end -%>
-  <a href="/ist/<%= p.url %>">
+  <a href="/ist<%= p.url %>">
     <img src="/ist/images/ist/permalink.gif" class="permalink" alt="permalink" />
   </a>
 
   <div class="<%= p.tumblog_type %>">
     <% if p.title -%>
-    <h2><%= link_to_page(p) %></h2>
+    <h2><a href="/ist<%= p.url %>"><%=p.title%></a></h2>
     <% end -%>
     <%= render(p) %>
   </div>

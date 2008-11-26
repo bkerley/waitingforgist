@@ -23,11 +23,6 @@ filter:    erb
   </h1>
 
   <div id="content">
-    <div id="description">
-      <div>
-        <p><a href="/tumblog/archive">Archive</a></p>
-      </div>
-    </div>
 
     <%= @content %>
 
