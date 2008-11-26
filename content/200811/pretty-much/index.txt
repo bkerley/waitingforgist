@@ -1,0 +1,10 @@
+---
+title:      Pretty Much
+created_at: 2008-11-25 21:43:03.693116 -05:00
+author:     Your Name
+filter:
+  - textile
+layout:       ist/post
+tumblog_type: regular
+---
+<script src="http://gist.github.com/27411.js"></script>
