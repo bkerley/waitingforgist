@@ -1,8 +1,8 @@
 ---
-title:     A Mother Clucker
-subtitle:  raising chickens in the city
-site:      example.com
-author:    Tim Pease
+title:     Waiting For Gist
+subtitle:  funny gist posts
+site:      waitingf.org/ist
+author:    Bryce
 email:     author@example.com
 extension: xml
 layout:    nil
