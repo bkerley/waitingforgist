@@ -32,6 +32,6 @@ dirty:  true
 <% end -%>
 
 <% content_for :footer do -%>
-<%= link_to("&#171; Prev", @pager.prev) if @pager.prev? %>
-<%= link_to("Next &#187;", @pager.next) if @pager.next? %>
+<%= link_to("&#171; Prev", '/ist'+@pager.prev.url) if @pager.prev? %>
+<%= link_to("Next &#187;", '/ist'+@pager.next.url) if @pager.next? %>
 <% end -%>
