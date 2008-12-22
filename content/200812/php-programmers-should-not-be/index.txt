@@ -1,0 +1,10 @@
+---
+title:      PHP Programmers Should Not Be
+created_at: 2008-12-22 13:43:28.155774 -05:00
+author:     Bryce
+filter:
+  - textile
+layout:       ist/post
+tumblog_type: regular
+---
+<script src="http://gist.github.com/39036.js"></script>
