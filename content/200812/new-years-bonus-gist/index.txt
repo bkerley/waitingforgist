@@ -1,0 +1,10 @@
+---
+title:      New Year's Bonus Gist
+created_at: 2008-12-31 10:51:54.632574 -05:00
+author:     Bryce
+filter:
+  - textile
+layout:       ist/post
+tumblog_type: regular
+---
+<script src="http://gist.github.com/41988.js"></script>
