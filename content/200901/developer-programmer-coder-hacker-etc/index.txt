@@ -1,5 +1,5 @@
 ---
-title:      "Developer," "Programmer," "Coder," "Hacker," etc. are all too emotionally charged imo
+title: All these words for people who program computers are too emotionally charged
 created_at: 2009-01-02 09:34:25.992208 -05:00
 author:     Bryce
 filter:
