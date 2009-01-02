@@ -1,0 +1,10 @@
+---
+title:      "Developer," "Programmer," "Coder," "Hacker," etc. are all too emotionally charged imo
+created_at: 2009-01-02 09:34:25.992208 -05:00
+author:     Bryce
+filter:
+  - textile
+layout:       ist/post
+tumblog_type: regular
+---
+<script src="http://gist.github.com/42469.js"></script>
