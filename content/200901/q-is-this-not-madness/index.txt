@@ -1,5 +1,5 @@
 ---
-title:      Q: Is This Not Madness? A: We are SPARTANS!
+title:      "Q: Is This Not Madness? A: We are SPARTANS!"
 created_at: 2009-01-05 14:23:42.515813 -05:00
 author:     Bryce
 filter:
