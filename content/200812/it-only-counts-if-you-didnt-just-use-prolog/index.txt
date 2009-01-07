@@ -1,0 +1,10 @@
+---
+title:      It Only Counts if You Didn't Use Prolog
+created_at: 2008-12-30 14:00:36.687265 -05:00
+author:     Bryce
+filter:
+  - textile
+layout:       ist/post
+tumblog_type: regular
+---
+<script src="http://gist.github.com/41582.js"></script>
