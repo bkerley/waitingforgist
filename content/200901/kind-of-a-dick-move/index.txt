@@ -1,0 +1,10 @@
+---
+title:      Kind of a Dick Move
+created_at: 2009-01-12 15:43:11.695805 -05:00
+author:     Bryce
+filter:
+  - textile
+layout:       ist/post
+tumblog_type: regular
+---
+<script src="http://gist.github.com/46117.js"></script>
