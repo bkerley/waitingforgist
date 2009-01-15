@@ -159,6 +159,11 @@ div.post
       :font-style          italic
       :border-left         solid 2px #444
       :padding-left        10px
+    
+    div.gist div.gist-data pre
+      :font-family 'Monaco', 'Bitstream Vera Sans Mono', 'Lucida Console', 'Courier', monospace
+      :font-size 10px
+      :line-height 12px
                         
 // Quote Post
 
