@@ -1,0 +1,10 @@
+---
+title:      Should Use Schema Instead of Migrations
+created_at: 2009-01-15 11:21:48.203920 -05:00
+author:     Bryce
+filter:
+  - textile
+layout:       ist/post
+tumblog_type: regular
+---
+<script src="http://gist.github.com/47458.js"></script>
