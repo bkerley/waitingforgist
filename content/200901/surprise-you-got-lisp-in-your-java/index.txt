@@ -1,0 +1,10 @@
+---
+title:      Surprise You Got Lisp in Your Java
+created_at: 2009-01-20 16:18:15.274809 -05:00
+author:     Bryce
+filter:
+  - textile
+layout:       ist/post
+tumblog_type: regular
+---
+<script src="http://gist.github.com/49656.js"></script>
