@@ -1,0 +1,10 @@
+---
+title:      Readlines Closes the Fd for You, Actually
+created_at: 2009-01-23 09:51:17.443977 -05:00
+author:     Bryce
+filter:
+  - textile
+layout:       ist/post
+tumblog_type: regular
+---
+<script src="http://gist.github.com/50965.js"></script>
