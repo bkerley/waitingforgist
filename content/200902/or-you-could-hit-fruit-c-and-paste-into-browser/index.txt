@@ -1,0 +1,10 @@
+---
+title:      Or You Could Hit Fruit-C and Paste Into Browser
+created_at: 2009-02-02 14:44:05.213261 -05:00
+author:     Bryce
+filter:
+  - textile
+layout:       ist/post
+tumblog_type: regular
+---
+<script src="http://gist.github.com/56935.js"></script>
