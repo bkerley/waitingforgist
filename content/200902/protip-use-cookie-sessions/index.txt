@@ -1,5 +1,5 @@
 ---
-title:      PROTIP: Use Cookie Sessions
+title:      "PROTIP: Use Cookie Sessions"
 created_at: 2009-02-12 13:39:26.149268 -05:00
 author:     Bryce
 filter:
