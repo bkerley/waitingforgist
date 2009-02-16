@@ -1,0 +1,10 @@
+---
+title:      RMM Can SMD
+created_at: 2009-02-16 16:58:03.917359 -05:00
+author:     Bryce
+filter:
+  - textile
+layout:       ist/post
+tumblog_type: regular
+---
+<script src="http://gist.github.com/65283.js"></script>
