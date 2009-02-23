@@ -1,0 +1,10 @@
+---
+title:      I Prefer the Netcat Web Server
+created_at: 2009-02-23 11:49:42.376113 -05:00
+author:     Bryce
+filter:
+  - textile
+layout:       ist/post
+tumblog_type: regular
+---
+<script src="http://gist.github.com/69020.js"></script>
