@@ -1,0 +1,10 @@
+---
+title:      The 70260 Begs to Differ
+created_at: 2009-02-25 12:24:08.835051 -05:00
+author:     Bryce
+filter:
+  - textile
+layout:       ist/post
+tumblog_type: regular
+---
+<script src="http://gist.github.com/70260.js"></script>
