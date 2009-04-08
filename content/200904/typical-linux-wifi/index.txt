@@ -1,0 +1,10 @@
+---
+title:      Typical Linux Wifi
+created_at: 2009-04-07 20:53:20.465992 -04:00
+author:     Bryce
+filter:
+  - textile
+layout:       ist/post
+tumblog_type: regular
+---
+<script src="http://gist.github.com/91550.js"></script>
