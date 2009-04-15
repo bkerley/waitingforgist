@@ -1,0 +1,10 @@
+---
+title:      Just Stop Supporting IE for Mac
+created_at: 2009-04-14 22:15:30.548138 -04:00
+author:     Bryce
+filter:
+  - textile
+layout:       ist/post
+tumblog_type: regular
+---
+<script src="http://gist.github.com/95414.js"></script>
