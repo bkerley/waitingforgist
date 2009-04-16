@@ -1,0 +1,10 @@
+---
+title:      A Gateway Error We Get It Already
+created_at: 2009-04-16 19:47:06.883727 -04:00
+author:     Bryce
+filter:
+  - textile
+layout:       ist/post
+tumblog_type: regular
+---
+<script src="http://gist.github.com/28983.js"></script>
